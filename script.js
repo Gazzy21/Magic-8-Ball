@@ -18,12 +18,12 @@ function shakeMagic8Ball() {
     switch (randomNumber) {
         case 0:
             answer = "Yes";
-            image = "yes-image.jpg" //change this!!;
+            image = "8-ball-yes.psd" //change this!!;
             color = "text-success";
             break;
         case 1:
             answer = "No";
-            image = "no-image.jpg" //change this!!;
+            image = "8-ball-no.psd" //change this!!;
             color = "text-danger";
             break;
         case 2:
